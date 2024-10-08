@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		41E4DDE62CB57DB800B7BB0C /* Slider .swift in Sources */ = {isa = PBXBuildFile; fileRef = 41E4DDE52CB57DB800B7BB0C /* Slider .swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		41F397382CB3F54300C51755 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -24,6 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		41E4DDE52CB57DB800B7BB0C /* Slider .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Slider .swift"; sourceTree = "<group>"; };
 		41F397272CB3F54100C51755 /* SwiftUI Complete Course.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI Complete Course.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		41F397372CB3F54300C51755 /* SwiftUI Complete CourseTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SwiftUI Complete CourseTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		41F397412CB3F54300C51755 /* SwiftUI Complete CourseUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SwiftUI Complete CourseUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -75,6 +80,7 @@
 		41F3971E2CB3F54100C51755 = {
 			isa = PBXGroup;
 			children = (
+				41E4DDE52CB57DB800B7BB0C /* Slider .swift */,
 				41F397292CB3F54100C51755 /* SwiftUI Complete Course */,
 				41F3973A2CB3F54300C51755 /* SwiftUI Complete CourseTests */,
 				41F397442CB3F54300C51755 /* SwiftUI Complete CourseUITests */,
@@ -236,6 +242,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				41E4DDE62CB57DB800B7BB0C /* Slider .swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
